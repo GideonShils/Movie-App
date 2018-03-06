@@ -1,2 +1,4 @@
 # Movie App
-## A sample movie web-app created with React
+## A sample web app created with React
+
+Used for demoing how [bit](http://www.bitsrc.io) can break React apps into sharable, reusable components
